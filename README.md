@@ -1,5 +1,5 @@
 # AplikasiObat (2016/2017)
- Aplikasi Manajemen Obat dengan Laravel
+ Aplikasi Manajemen Obat dengan Laravel<br/>
 <strong>Fitur - Fitur</strong>
 <li>Autentifikasi User</li>
 <li>Beranda dengan informasi obat dengan stok tipis</li>
